@@ -1,2 +1,2 @@
 # student-panel
-This is just a demo dashboard for students
+This is just a demo dashboard for students.
